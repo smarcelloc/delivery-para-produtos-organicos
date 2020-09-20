@@ -19,9 +19,11 @@ A vantagem demostra na qualidade do produto em entregas mais rápidas e diversid
 além de buscamos o mesmo modelo do Ifood e Rappi. Desta forma, garantimos menor preço por causa da competição interna dos fornecedores e menor taxa de comissão.
 
 ## Equipe
-- **Faculdade:** FATEC Zona Sul - Análise e Desenvolvimento de Sistema - 6º Semestre - JUL/2020
 - Caio Henrique de Souza Pereira
 - Leonardo Magalhães Yabiku
 - Marcello Costa Silvério
 - Nelo Francisco S. Neto
 - Plínio Mendonça dos Santos
+
+**Faculdade:** FATEC Zona Sul - Análise e Desenvolvimento de Sistema - 6º Semestre - JUL/2020
+
