@@ -1,6 +1,9 @@
 # Green Eats - Delivery de Produtos Orgânicos
 É um serviço delivery de produtos orgânicos que permite o consumidor pedir os seus produtos de forma rápida e alimentos frescos sem sair de casa.
 
+- [Vídeo sobre o Projeto](https://github.com/smarcelloc/delivery-para-produtos-organicos/raw/master/Projeto%20Green%20Eats.mp4)
+- [Apresentação do projeto](https://github.com/smarcelloc/delivery-para-produtos-organicos/raw/master/Apresenta%C3%A7%C3%A3o%20Projeto.pdf)
+
 ## Clientes
 Varejistas ou produtores que queiram divulgar e entregar seus alimentos orgânicos de forma rápido aos seus clientes, aumentando assim as suas vendas.
 
